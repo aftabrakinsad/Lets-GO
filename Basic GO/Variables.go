@@ -48,6 +48,9 @@ func main() {
 	//Multi-Word Variable Names - Snake Case
 	var my_name = "Aftab-III";
 
+	//Declaring a Constant veriable
+	const PI = 3.1416;
+
 
 	fmt.Println(x);
 	fmt.Println(student);
@@ -75,4 +78,6 @@ func main() {
 	fmt.Println(myName);
 	fmt.Println(MyName);
 	fmt.Println(my_name);
+
+	fmt.Println(PI);
 }
